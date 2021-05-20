@@ -1,0 +1,28 @@
+
+
+nav {
+    background-color: navy;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav a{
+    display: block;
+font-size: 50px;
+padding: 10px;
+text-decoration: none;
+font-family: sans-serif;
+color: white;
+}
+body {
+    width: 100%;
+    height: 1000px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .container {  
+      margin-top: 100px;
+  background-color: lightblue;  
+}  
